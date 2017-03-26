@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ItemCreator.cs">
+    <Files>
+      <File FileName="Assets\Carrito.cs" Line="15" Column="17" />
+      <File FileName="Assets\ItemCreator.cs" Line="20" Column="1" />
+      <File FileName="Assets\Character\PlayerOne.cs" Line="19" Column="12" />
+      <File FileName="Assets\Products.cs" Line="43" Column="19" />
+      <File FileName="Assets\KwikemartItems\Utilities.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
